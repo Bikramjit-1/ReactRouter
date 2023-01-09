@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App {
+  display: flex;
+  flex-direction: row;
+  background-color: DodgerBlue;
+}
+.App > div {
+  background-color: #f1f1f1;
+  margin: 50px;
+  padding: 50px;
+  font-size: 30px;
+}
